@@ -1,2 +1,2 @@
 # SPE2015_PlaylistGenerator
-This is our readme.
+Plan of action:
